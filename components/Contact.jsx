@@ -12,12 +12,15 @@ function Contact() {
           flexDirection: "column",
         }}
       >
-        
-
         <a href="#">You Tube https://www.youtube.com/@Dark_tobi-77</a>
       </div>
-      <img  style={{ borderRadius: "15px" }} src="https://w.forfun.com/fetch/34/34f822a8342112765c50d0dadc847e4d.jpeg" alt="" height={500}
-          width={900} />
+      <img
+        style={{ borderRadius: "15px" }}
+        src="https://w.forfun.com/fetch/34/34f822a8342112765c50d0dadc847e4d.jpeg"
+        alt=""
+        height={500}
+        width={900}
+      />
     </div>
   );
 }
