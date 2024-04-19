@@ -5,7 +5,7 @@ function Home() {
     <div>
       <h2 style={{ textAlign: "center" }}>Home</h2>
       <h3 style={{ textAlign: "center", fontWeight: "800", fontSize: "32px" }}>
-        Welcome to anime
+      welcome to Naruto world
       </h3>
       <div
         style={{
